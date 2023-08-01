@@ -1,0 +1,81 @@
+{
+  "result": [
+    {
+      "id": "4409318d-03a2-4923-8a6f-9cef1e1c09fc",
+      "name": "iCombo 1 Extra",
+      "description": "1 BẮP (NGỌT/MẶN) + 1 NƯỚC (PEPSI/7UP/MIRINDA CAM/MIRINDA SARSI)) + 1 TRONG CÁC LOẠI BÁNH: TWISTER, KITKAT, GAP, ĐẬU WASABI, STRIP FRIES",
+      "itemId": 619,
+      "imageUrl": "http://staging.galaxycine.vn/media/2023/6/14/menuboard-combo1-2-2022-coonline-combo1-1680280126585_1686726063171.jpg",
+      "price": 59000,
+      "maxQuantity": 100,
+      "headOfficeItemCode": "HOiCOMBO1EXTRA",
+      "type": "combo"
+    },
+    {
+      "id": "5185b752-eb8c-465d-8bad-99e0ae87e4df",
+      "name": "iCombo 2 Extra",
+      "description": "1 BẮP (NGỌT/MẶN) + 2 NƯỚC (PEPSI/7UP/MIRINDA CAM/MIRINDA SARSI) + 1 TRONG CÁC LOẠI BÁNH: TWISTER, KITKAT, GAP, ĐẬU WASABI, STRIP FRIES",
+      "itemId": 620,
+      "imageUrl": "http://staging.galaxycine.vn/media/2023/6/14/menuboard-combo1-2-2022-coonline-combo2-1680280172153_1686726071585.jpg",
+      "price": 97000,
+      "maxQuantity": 100,
+      "headOfficeItemCode": "HOiCOMBO2EXTRA",
+      "type": "combo"
+    },
+    {
+      "id": "8893ba86-0cad-4ce0-a70a-66c2d46fb6fb",
+      "name": "Goi Yeu Phim",
+      "description": "",
+      "itemId": 100018,
+      "imageUrl": "",
+      "price": 179000,
+      "maxQuantity": 100,
+      "headOfficeItemCode": "HOGOIYEUPHIM",
+      "type": "food"
+    },
+    {
+      "id": "f0e68179-2e09-402b-a074-f51e35162e8a",
+      "name": "Goi Mot Phim",
+      "description": "",
+      "itemId": 100016,
+      "imageUrl": "",
+      "price": 899000,
+      "maxQuantity": 100,
+      "headOfficeItemCode": "HOGOIMOTPHIM",
+      "type": "food"
+    },
+    {
+      "id": "be6915dd-e5aa-489e-b17d-43568adfcad2",
+      "name": "Goi Ghien Phim",
+      "description": "",
+      "itemId": 100017,
+      "imageUrl": "",
+      "price": 499000,
+      "maxQuantity": 100,
+      "headOfficeItemCode": "HOGOIGHIENPHIM",
+      "type": "food"
+    },
+    {
+      "id": "e05d21f1-fc18-4969-8efa-7b69ce3af962",
+      "name": "Goi Galaxy Play Mobile",
+      "description": "1 tháng xem phim Online",
+      "itemId": 10008,
+      "imageUrl": "http://staging.galaxycine.vn/media/2023/6/15/goi-galaxy-play-mobile-10k_1686846523801.jpg",
+      "price": 10000,
+      "maxQuantity": 100,
+      "headOfficeItemCode": "HO10K",
+      "type": "drink"
+    },
+    {
+      "id": "17e9f7ee-768b-4c3a-a642-efdaaa6d792c",
+      "name": "Goi Galaxy Play Sieu Viet",
+      "description": "2 tháng xem phim Online\nĐộc quyền phim Việt chiếu rạp",
+      "itemId": 10007,
+      "imageUrl": "http://staging.galaxycine.vn/media/2023/6/15/goi-galaxy-play-sieu-viet-50k_1686846524681.jpg",
+      "price": 50000,
+      "maxQuantity": 100,
+      "headOfficeItemCode": "HO55K",
+      "type": "drink"
+    }
+  ]
+}
